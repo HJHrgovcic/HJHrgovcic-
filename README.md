@@ -5,7 +5,7 @@
 ### Welcome to my page. I'm Joseph Hrgovcic, and work on optimizing conversion rates for Shopify and other e-commerce sites <img src="./united-states.png" width="13"> TX or IL, US.
 
 
-## 🛠️ Languages and Tools: hotjar, LuckyOrange, along with html/css/JS/Python/Pytorch
+## 🛠️ Languages and Tools: hotjar, LuckyOrange
 
 <div style="display:flex;align-items:center">
 
